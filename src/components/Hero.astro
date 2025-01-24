@@ -48,15 +48,7 @@ const titleHTML = title.split(" ").map((titlePart: string) => {
 			</div>
 		)}
   </div>
-	{darkImage && (
-		<Image
-			src={darkImage}
-			{...imageAttrs}
-			class:list={{ 'light:sl-hidden': Boolean(lightImage) }}
-		/>
-	)}
-	{lightImage && <Image src={lightImage} {...imageAttrs} class="dark:sl-hidden" />}
-	{rawHtml && <div class="hero-html sl-flex" set:html={rawHtml} />}
+	
 </div>
 
 <CardGrid />
