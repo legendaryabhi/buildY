@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: '/images/img1.png',
+      title: 'Naked Singularity as Source of ultra high Energy',
+      link: '/techs/naked-singularity-as-a-possible-source-of-ultra-high-energy/',
+      tags: ['energy', 'space'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/e542e46e-6af5-4a5c-8ece-16966fee1dd0',
       title: 'Enhanced Aerodynamic Performance UAV Design',
       link: '/techs/enhanced-aerodynamic-performance-in-uav-design/',
