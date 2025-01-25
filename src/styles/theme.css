@@ -5,9 +5,9 @@
   --sl-font-system-mono: "Space Mono", monospace;
 
   /* Dark mode colors */
-	--sl-color-accent-low: #3c0017;
-	--sl-color-accent: #bd0249;
-	--sl-color-accent-high: #ff78ac;
+	--sl-color-accent-low: #00033c;
+	--sl-color-accent: #0253bd;
+	--sl-color-accent-high: #7d78ff;
 	--sl-color-white: #ffffff;
 	--sl-color-gray-1: #c2c2c2;
 	--sl-color-gray-2: #a3a3a3;
@@ -17,9 +17,9 @@
 	--sl-color-gray-6: #000000;
 	--sl-color-black: #000000;
 
-	--sl-color-red-low: #3c0017;
-  --sl-color-red: #bd0249;
-	--sl-color-red-high: #ff78ac;
+	--sl-color-red-low: #00113c;
+  --sl-color-red: #022ebd;
+	--sl-color-red-high: #788fff;
 
   --sl-color-purple-low: #33225b;
   --sl-color-purple: #8a5cf5;

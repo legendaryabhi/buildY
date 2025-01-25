@@ -6,6 +6,12 @@
     width: 100%;
   }
   
+  .image-container {
+  background-color: white;
+  padding: 10px; /* Optional: Add some padding to make the background stand out more */
+  border-radius: 8px; /* Optional: Round the corners of the image background */
+}
+
   .card {
     flex: 1 1 calc(30.333% - 16px); /* Each card takes up one-third of the row width */
     margin: 8px;
@@ -24,7 +30,7 @@
   
   .card-image {
     width: 100%;
-    height:300px; /* Keeps the image aspect ratio intact */
+    height:250px; /* Keeps the image aspect ratio intact */
     border-radius: 8px;
     object-fit: cover; /* Ensures the image fills the area without distortion */
     flex: 1;
@@ -39,7 +45,7 @@
   
   .card-title {
     font-size: 18px;
-    font-weight: bold;
+    font-weight: normal;
     margin-bottom: 8px;
     color: #ffffff;
   }

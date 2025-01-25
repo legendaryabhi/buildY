@@ -14,27 +14,24 @@ export default defineConfig({
       },
       social: {
         github: 'https://github.com/necrozmalabs',
-        twitter: 'https://x.com/Necrozmalabs'
+        twitter: 'https://x.com/Necrozmalabs',
+        linkedin: 'https://www.linkedin.com/company/necrozmalabs'
       },
       sidebar: [
         {
           label: '[home] Home',
           link: '/'
         },
-        
         {
           label: '[box] Find here',
           autogenerate: {
             directory: 'tags'
           }
         },
-        
         {
-          label: '[book] Reference',
-          autogenerate: {
-            directory: 'reference'
-          }
-        }
+          label: '[book] Ussage License',
+          link:'/usagelicense/'
+        },
       ],
       components: {
         ThemeProvider: './src/components/ThemeProvider.astro',
