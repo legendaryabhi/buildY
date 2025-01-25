@@ -4,7 +4,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://buildY.necrozmalabs.com',
+  site: 'https://buildy.necrozmalabs.com',
   base: '',
   integrations: [
     starlight({
@@ -13,7 +13,7 @@ export default defineConfig({
         src: './src/assets/logo.png'
       },
       social: {
-        github: 'https://github.com/necrozmalabs',
+        github: 'https://github.com/Necrozmalabs/buildY',
         twitter: 'https://x.com/Necrozmalabs',
         linkedin: 'https://www.linkedin.com/company/necrozmalabs'
       },
