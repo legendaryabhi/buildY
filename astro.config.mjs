@@ -13,7 +13,7 @@ export default defineConfig({
         src: './src/assets/logo.png'
       },
       social: {
-        github: 'https://github.com/louisescher/starlight-ion-theme',
+        github: 'https://github.com/necrozmalabs',
         twitter: 'https://x.com/Necrozmalabs'
       },
       sidebar: [
@@ -21,16 +21,14 @@ export default defineConfig({
           label: '[home] Home',
           link: '/'
         },
-        // {
-        //   label: '[list] Features',
-        //   link: '/features/'
-        // },
+        
         {
           label: '[box] Find here',
           autogenerate: {
             directory: 'tags'
           }
         },
+        
         {
           label: '[book] Reference',
           autogenerate: {
