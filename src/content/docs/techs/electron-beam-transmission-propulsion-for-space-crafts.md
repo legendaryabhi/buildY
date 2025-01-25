@@ -28,8 +28,8 @@ Challenges
 
 While the potential of these technologies is significant, the path to their practical application is fraught with challenges that require ongoing research and development. Addressing these issues will be crucial for the future of space exploration.
 
-### Sources
+### Sources & citation
 
 > New Technological Approach for Improving the Thermionic Energy Conversion Efficiency for Space-Power Applications and Deep Space Exploration Paper - https://www.preprints.org/manuscript/202312.2265/v1
 
->Sunbeam: Near-Sun Statites as Beam Platforms for Beam-Driven Rockets
+> Sunbeam: Near-Sun Statites as Beam Platforms for Beam-Driven Rockets

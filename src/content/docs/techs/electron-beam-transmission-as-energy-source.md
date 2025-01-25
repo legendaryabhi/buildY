@@ -26,6 +26,8 @@ Thermionic power and electron beam transmission present promising avenues for en
 
 While thermionic power and electron beam transmission hold significant potential, ongoing research is essential to overcome the existing challenges and fully realize their applications.
 
+### Sources & citation
+
 > Lukin, A. (2023). New Technological Approach for Improving the Thermionic Energy Conversion Efficiency for Space-Power Applications and Deep Space Exploration. https://doi.org/10.20944/preprints202312.2265.v1
 
 > Morris, J. F., & Jacobson, D. L. (1984, November 1). Thermionic Energy Conversion for Space-Power and Terrestrial-Topping Applications. International Telecommunications Energy Conference. https://doi.org/10.1109/INTLEC.1984.4794111

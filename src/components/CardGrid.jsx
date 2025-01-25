@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/e542e46e-6af5-4a5c-8ece-16966fee1dd0',
+      title: 'Enhanced Aerodynamic Performance UAV Design',
+      link: '/techs/enhanced-aerodynamic-performance-in-uav-design/',
+      tags: ['inventions', 'drones'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/770471d5-1030-405e-b215-0b1fa40b12dd',
       title: 'Electron beam transmission as Energy Source',
       link: '/techs/electron-beam-transmission-as-energy-source/',
