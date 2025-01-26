@@ -7,8 +7,17 @@ description: This extreme energy is achievable due to the absence of an event ho
 
 An end state of a massive star under such conditions can lead to the formation of JMN-1 naked singularity. The line element of the JMN-1 naked singularity spacetime is:
 
-![image](/images/img3.png)
+$$ 
+ds^2 = -(1-M_0) \left(\frac{r}{R_b}\right)^{\frac{M_0}{1-M_0}} dt^2 + \frac{1}{1-M_0} dr^2 + r^2 d\Omega^2,
+$$
 
+where,
+
+$$ 
+d\Omega^2 = d\theta^2 + \sin^2\theta \, d\phi^2.
+$$
+
+$M_0$ and $R_b$ are positive constants. $M_0$ can have any value within the range $0 < M_0 < 1$. $R_b$ is the radius of matter distributed around the central singularity.
 
 This extreme energy is achievable due to the absence of an event horizon, which facilitates particle collisions closer to the singularity compared to black holes.
 

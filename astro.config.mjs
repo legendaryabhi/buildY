@@ -1,13 +1,44 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
+  markdown: {
+    remarkPlugins: [remarkMath],
+    rehypePlugins: [rehypeKatex],
+  },
   site: 'https://buildy.necrozmalabs.com',
   base: '',
   integrations: [
     starlight({
+      
+    head: [
+      // Adding google analytics
+      {
+        tag: 'script',
+        attrs: {
+          type: 'text/javascript',
+        },  
+        content: `
+        (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "pzsuxdjtkc");
+        `,
+      },
+      {
+        tag: 'link',
+        attrs: {
+          rel: 'stylesheet',
+          href: 'https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css'
+        }
+      }      
+    ],
+
       title: 'Build Y',
       logo: {
         src: './src/assets/logo.png'
@@ -29,8 +60,12 @@ export default defineConfig({
           }
         },
         {
-          label: '[book] Ussage License',
+          label: '[book] Usage License',
           link:'/usagelicense/'
+        },
+        {
+          label: '[rocket] Credits',
+          link:'/credits/'
         },
       ],
       components: {
