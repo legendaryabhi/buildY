@@ -24,6 +24,54 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/259f79af-703a-4023-8cd7-c1a37d9786f8',
+      title: 'Dyson Swarm around Mars as an Energy Source',
+      link: '/techs/dyson-swarm-around-mars-as-an-energy-source/',
+      tags: ['energy', 'inventions', 'space'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/e7e074e7-8af0-4344-b8e9-338850a0eab2',
+      title: 'Space-Based Solar Power for Unlimited Energy',
+      link: '/techs/space-based-solar-power-for-unlimited-energy/',
+      tags: ['energy', 'inventions', 'space'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/9d1bf61f-d9dd-4d62-8a32-651b3e3a807f',
+      title: 'Making of Microscopic Black Holes',
+      link: '/techs/making-of-microscopic-black-holes/',
+      tags: ['inventions', 'space'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/2f4e444b-31d1-41a2-92cc-1986f0fe218e',
+      title: 'Quantum Blockchain for increased Speed and Security',
+      link: '/techs/quantum-blockchain-for-increased-speed-and-security/',
+      tags: ['quantum', 'inventions'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/28c4eea6-da36-45c3-bfb9-5d796a1699bb',
+      title: 'Quantum Cascade Laser Glucose Sensors for Diabetes Care',
+      link: '/techs/quantum-cascade-laser-glucose-sensors-for-diabetes-care/',
+      tags: ['quantum', 'inventions'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/36f49658-3ed2-4ba4-98a3-c31d48304a40',
+      title: 'Optical Nuclear Electric Resonance for Quantum Gates',
+      link: '/techs/optical-nuclear-electric-resonance-for-quantum-gates/',
+      tags: ['quantum', 'inventions'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/8dc03b34-ed06-484e-9883-d1fdc2b25844',
+      title: 'Omni-directional Mobile Robot for Material Conveying',
+      link: '/techs/omni-directional-mobile-robot-for-material-conveying/',
+      tags: ['robotics'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/b0c435fa-b1bb-4d31-8715-f0acb33cbc56',
+      title: 'Low cost 12DoF Quadruped Robot Design',
+      link: '/techs/low-cost-quadruped-robot-design/',
+      tags: ['robotics'],
+    },
+    {
       gif: '/images/img1.png',
       title: 'Naked Singularity as Source of ultra high Energy',
       link: '/techs/naked-singularity-as-a-possible-source-of-ultra-high-energy/',
