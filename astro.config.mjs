@@ -67,6 +67,10 @@ export default defineConfig({
           label: '[rocket] Credits',
           link:'/credits/'
         },
+        {
+          label: '[list] Updates',
+          link:'/updates/'
+        },
       ],
       components: {
         ThemeProvider: './src/components/ThemeProvider.astro',
