@@ -10,7 +10,7 @@ description: Energy source for unlimited energy
 
 #### This does not belongs to us...
 
-This project is avaliable on Instructables, so all the rights went to them and the original creator. You can find it here: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/Space-Based_Solar_Power_overview
+This project is avaliable on ESA, so all the rights went to them and the original creator. You can find it here: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/Space-Based_Solar_Power_overview
 
 <br>
 <br>
