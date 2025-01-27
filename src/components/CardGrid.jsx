@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/9c46fed3-7a29-4298-bb04-8f2648f30484',
+      title: 'Dyson Swarm as a form of Dyson Sphere',
+      link: '/techs/dyson-swarm-as-a-form-of-dyson-sphere/',
+      tags: ['energy', 'inventions', 'space'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/259f79af-703a-4023-8cd7-c1a37d9786f8',
       title: 'Dyson Swarm around Mars as an Energy Source',
       link: '/techs/dyson-swarm-around-mars-as-an-energy-source/',
