@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/35708136-d413-484c-9d81-57fa5c23036b',
+      title: 'pure-RL training method (used by deepseek in r1)',
+      link: '/techs/pure-rl-training-method/',
+      tags: ['ai', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/9c46fed3-7a29-4298-bb04-8f2648f30484',
       title: 'Dyson Swarm as a form of Dyson Sphere',
       link: '/techs/dyson-swarm-as-a-form-of-dyson-sphere/',
