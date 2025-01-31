@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/6c6911b4-d75d-499f-86a2-3802109dc8cd',
+      title: 'Teleportation of a quantum particle via quantum Zeno dynamics',
+      link: '/techs/teleportation-of-a-quantum-particle-via-quantum-zeno-dynamics/',
+      tags: ['quantum', 'inventions', 'teleportation'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/35708136-d413-484c-9d81-57fa5c23036b',
       title: 'pure-RL training method (used by deepseek in r1)',
       link: '/techs/pure-rl-training-method/',
