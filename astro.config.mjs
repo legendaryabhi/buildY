@@ -71,6 +71,10 @@ export default defineConfig({
           label: '[list] Updates',
           link:'/updates/'
         },
+        {
+          label: '[hand] Story we stand for',
+          link:'/story-we-stand-for/'
+        },
       ],
       components: {
         ThemeProvider: './src/components/ThemeProvider.astro',

@@ -4,6 +4,8 @@ description: This extreme energy is achievable due to the absence of an event ho
 ---
 
 ![image](/images/img1.png)
+<br>
+<br>
 
 An end state of a massive star under such conditions can lead to the formation of JMN-1 naked singularity. The line element of the JMN-1 naked singularity spacetime is:
 
@@ -27,7 +29,9 @@ The source of Ultra-High Energy Cosmic Rays (UHECRs) remains one of the greatest
 
 Their possible source can be the galactic nuclei, where the ultra-high gravity region plays a crucial role. Cosmic rays are extremely energetic particles that travel through space with energies exceeding 1020eV , but their origin is still a mystery despite years of studies and observations.
 
-In view of this, in this work, we studied the Joshi-Malafarina-Narayan (JMN-1) naked singularity as a natural particle accelerator. We derived the necessary expressions to find center of mass energy when two particles collide. We have obtained results showing that center of mass energy of the two particles will reach to Planck energy scale. This will form a microscopic black hole which will decay in Hawking radiation, having energy on the order of 1026eV from the ultra-high gravity region of Sgr A*. These outgoing highly energetic particles from the naked singularity could be the possible sources of UHECRs.
+In view of this, in this work, we studied the Joshi-Malafarina-Narayan (JMN-1) naked singularity as a natural particle accelerator. We derived the necessary expressions to find center of mass energy when two particles collide. We have obtained results showing that center of mass energy of the two particles will reach to Planck energy scale. This will form a microscopic black hole which will decay in Hawking radiation, having energy on the order of 1026eV from the ultra-high gravity region of Sgr A*. 
+
+**These outgoing highly energetic particles from the naked singularity could be the possible sources of UHECRs.**
 
 ### Sources & citation
 

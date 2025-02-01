@@ -7,6 +7,8 @@ description: Thermionic energy converters (TECs) directly convert heat into elec
 #### Idea Proposed
 ![Image](https://github.com/user-attachments/assets/770471d5-1030-405e-b215-0b1fa40b12dd)
 
+> Statities Design which can be used to get solar energy and convert it to beam
+
 <br>
 <br>
 

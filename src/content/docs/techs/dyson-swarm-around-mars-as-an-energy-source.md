@@ -13,10 +13,13 @@ Efficiency of the Dyson Swarm ranges from around 0.74 - 2.77% of the Sun's 3.85�
 <br>
 <br>
 
+### Proposed Idea's Graphical Representation
+<br>
+
 ![Image](https://github.com/user-attachments/assets/45bf2980-f9e7-4f6b-b349-f2d7819ca3a2)
 <br>
 <br>
-Journey of radiation from the Sun to Earth through the Mars-based swarm. *Efficiency of transfer from swarm to mirrors can be estimated to be 70% including absorption of solar radiation in Mars’ atmosphere, dispersion of reflected radiation, and the land area uncovered by mirrors.
+Journey of radiation from the Sun to Earth through the Mars-based swarm. Efficiency of transfer from swarm to mirrors can be estimated to be 70% including absorption of solar radiation in Mars’ atmosphere, dispersion of reflected radiation, and the land area uncovered by mirrors.
 
 <br>
 

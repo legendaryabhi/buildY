@@ -24,6 +24,18 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/cffd2117-0643-4931-9f9e-205201f11869',
+      title: 'Quantum Algorithm for 1000x Forecasting Simulations',
+      link: '/techs/quantum-inspired-algorithm-for-1000x-forecasting-simulations/',
+      tags: ['quantum', 'inventions'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/de3c1546-f8aa-4477-9b80-b4ce41d04e92',
+      title: 'Tensor Networks in Fluid Dynamics for Cost Reduction',
+      link: '/techs/tensor-networks-in-fluid-dynamics-for-cost-reduction/',
+      tags: ['quantum', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/6c6911b4-d75d-499f-86a2-3802109dc8cd',
       title: 'Teleportation of a quantum particle via quantum Zeno dynamics',
       link: '/techs/teleportation-of-a-quantum-particle-via-quantum-zeno-dynamics/',

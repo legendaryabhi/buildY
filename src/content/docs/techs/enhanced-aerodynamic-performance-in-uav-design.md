@@ -3,7 +3,7 @@ title: Enhanced Aerodynamic Performance UAV Design
 description: The model achieved a notable enhancement in aerodynamic efficiency through the design optimization of the drone.
 ---
 
-#### Design 
+### Design 
 
 ![Image](https://github.com/user-attachments/assets/dae5af06-2761-4e33-bef1-405979d425f2)
 <br>

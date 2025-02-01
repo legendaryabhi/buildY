@@ -12,9 +12,9 @@ Non-invasive blood glucose monitoring, which can revolutionize diabetes care. Co
 
 ### Implementation Details:
 
-Design a portable FTIR spectrometer integrated with a QCL for detecting blood glucose via mid-infrared absorption.
-Use data mining techniques to analyze glucose levels accurately.
-Prototype wearable devices combining QCLs and biometric sensors for practical testing.
+- Design a portable FTIR spectrometer integrated with a QCL for detecting blood glucose via mid-infrared absorption.
+- Use data mining techniques to analyze glucose levels accurately.
+- Prototype wearable devices combining QCLs and biometric sensors for practical testing.
 
 ### Sources & citation
 
