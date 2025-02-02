@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/966dac6d-dc9b-4510-ae1f-4acf4fad05fe',
+      title: 'Generative AI to quickly calculate 3D genomic structures',
+      link: '/techs/generative-ai-to-quickly-calculate-3d-genomic-structures/',
+      tags: ['ai', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/cffd2117-0643-4931-9f9e-205201f11869',
       title: 'Quantum Algorithm for 1000x Forecasting Simulations',
       link: '/techs/quantum-inspired-algorithm-for-1000x-forecasting-simulations/',
