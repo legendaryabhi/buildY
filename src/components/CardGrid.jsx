@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/81714d42-305a-4496-9eb5-b70e67ffb5a5',
+      title: 'Scalable Photonic Quantum Computer Aurora',
+      link: '/techs/scalable-photonic-quantum-computer-aurora/',
+      tags: ['quantum', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/966dac6d-dc9b-4510-ae1f-4acf4fad05fe',
       title: 'Generative AI to quickly calculate 3D genomic structures',
       link: '/techs/generative-ai-to-quickly-calculate-3d-genomic-structures/',
