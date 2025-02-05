@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/8d1cf5a8-b696-4b4f-8dd0-030eb4d731b3',
+      title: 'Lightsail propulsion for very high speed space travel',
+      link: '/techs/lightsail-propulsion-for-very-high-speed-space-travel/',
+      tags: ['space', 'rockets', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/81714d42-305a-4496-9eb5-b70e67ffb5a5',
       title: 'Scalable Photonic Quantum Computer Aurora',
       link: '/techs/scalable-photonic-quantum-computer-aurora/',
