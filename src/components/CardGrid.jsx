@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/03773e2e-a013-442a-84cb-a432286de888',
+      title: 'New Way to Control Electrons ',
+      link: '/techs/new-way-to-control-electrons/',
+      tags: ['energy', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/8d1cf5a8-b696-4b4f-8dd0-030eb4d731b3',
       title: 'Lightsail propulsion for very high speed space travel',
       link: '/techs/lightsail-propulsion-for-very-high-speed-space-travel/',
