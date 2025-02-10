@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/0e5f0b72-b59a-484b-9bf0-185b6ad983b7',
+      title: 'Quantum Spectroscopy for Ultra-Sensitive Detection ',
+      link: '/techs/quantum-spectroscopy-for-ultra-sensitive-detection/',
+      tags: ['other', 'quantum', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/bf1bbc2f-c39f-43f1-910e-938dac26a060',
       title: 'Idea: DNA-based supercomputer to run 100 billion parallel programs',
       link: '/techs/dna-based-supercomputer-to-run-100-billion-parallel-programs/',
@@ -33,7 +39,7 @@ const CardGrid = ({ tag }) => {
       gif: 'https://github.com/user-attachments/assets/03773e2e-a013-442a-84cb-a432286de888',
       title: 'New Way to Control Electrons',
       link: '/techs/new-way-to-control-electrons/',
-      tags: ['energy','other', 'inventions'],
+      tags: ['other', 'inventions'],
     },
     {
       gif: 'https://github.com/user-attachments/assets/8d1cf5a8-b696-4b4f-8dd0-030eb4d731b3',
