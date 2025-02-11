@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/2061e603-1b8a-4814-9578-6a505285b0c1',
+      title: 'Supramolecular Dyads for Quantum Computing and Sensing',
+      link: '/techs/supramolecular-dyads-for-quantum-computing-and-sensing/',
+      tags: ['other', 'quantum', 'inventions'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/0e5f0b72-b59a-484b-9bf0-185b6ad983b7',
       title: 'Quantum Spectroscopy for Ultra-Sensitive Detection ',
       link: '/techs/quantum-spectroscopy-for-ultra-sensitive-detection/',
