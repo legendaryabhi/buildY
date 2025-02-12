@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/8feb3119-e4c2-47c3-9982-46489370ff93',
+      title: 'Micro Drone to navigate cluttered environments at high speeds',
+      link: '/techs/micro-drone-to-navigate-cluttered-environments-at-high-speeds/',
+      tags: ['other', 'drones','ai'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/2061e603-1b8a-4814-9578-6a505285b0c1',
       title: 'Supramolecular Dyads for Quantum Computing and Sensing',
       link: '/techs/supramolecular-dyads-for-quantum-computing-and-sensing/',
