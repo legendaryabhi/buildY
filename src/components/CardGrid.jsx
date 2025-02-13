@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/edb29174-5cd8-4684-a6fd-92be2df0672a',
+      title: 'A.I Architecture to predict superstorms, solar storms',
+      link: '/techs/ai-to-predict-superstorms-and-solar-storms/',
+      tags: ['space', 'inventions','ai'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/8feb3119-e4c2-47c3-9982-46489370ff93',
       title: 'Micro Drone to navigate cluttered environments at high speeds',
       link: '/techs/micro-drone-to-navigate-cluttered-environments-at-high-speeds/',
