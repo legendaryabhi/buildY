@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/a1e3ce16-f9be-4967-802b-eda1c1b3488b',
+      title: 'Efficient CN Bond Formation to lower the cost of medicine',
+      link: '/techs/efficient-c-n-bond-formation-to-lower-the-cost-of-medicine/',
+      tags: ['inventions', 'biotech'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/edb29174-5cd8-4684-a6fd-92be2df0672a',
       title: 'A.I Architecture to predict superstorms, solar storms',
       link: '/techs/ai-to-predict-superstorms-and-solar-storms/',
