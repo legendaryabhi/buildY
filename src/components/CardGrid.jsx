@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/aa8b18eb-ab10-47ca-a4e2-0c0c32b6b759',
+      title: 'Aqueous-based recycling of perovskite photovoltaics',
+      link: '/techs/aqueous-based-recycling-of-perovskite-photovoltaics/',
+      tags: ['inventions', 'energy'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/a1e3ce16-f9be-4967-802b-eda1c1b3488b',
       title: 'Efficient CN Bond Formation to lower the cost of medicine',
       link: '/techs/efficient-c-n-bond-formation-to-lower-the-cost-of-medicine/',
