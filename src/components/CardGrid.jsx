@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/67a82a2f-674a-4df5-9345-bfe28a269157',
+      title: 'Light-Twisting Materials: A Breakthrough in Optics and Photonics',
+      link: '/techs/light-twisting-materials-a-breakthrough/',
+      tags: ['inventions', 'other'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/aa8b18eb-ab10-47ca-a4e2-0c0c32b6b759',
       title: 'Aqueous-based recycling of perovskite photovoltaics',
       link: '/techs/aqueous-based-recycling-of-perovskite-photovoltaics/',
