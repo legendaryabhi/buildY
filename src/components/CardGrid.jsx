@@ -24,8 +24,14 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/3caffa74-28be-4554-bd53-a85c95d9e770',
+      title: ' Quantum Entanglement with Multilevel Atomic Arrays',
+      link: '/techs/supercharging-quantum-entanglement-with-multilevel-atomic-arrays/',
+      tags: ['inventions', 'quantum'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/67a82a2f-674a-4df5-9345-bfe28a269157',
-      title: 'Light-Twisting Materials: A Breakthrough in Optics and Photonics',
+      title: 'Light-Twisting Materials in Optics and Photonics',
       link: '/techs/light-twisting-materials-a-breakthrough/',
       tags: ['inventions', 'other'],
     },
