@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/5543dc90-1a5e-4f47-a0ba-f5d06e212e93',
+      title: 'Biologically Plausible Model for Dimensionality Reduction',
+      link: '/techs/biologically-plausible-model-for-nonlinear-dimensionality-reduction/',
+      tags: ['inventions', 'biotech'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/3caffa74-28be-4554-bd53-a85c95d9e770',
       title: ' Quantum Entanglement with Multilevel Atomic Arrays',
       link: '/techs/supercharging-quantum-entanglement-with-multilevel-atomic-arrays/',
