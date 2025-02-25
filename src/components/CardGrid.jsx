@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/375a6e4f-20d3-4f33-884b-7ee45ddd97f2',
+      title: 'Distributed quantum computing across an optical network link',
+      link: '/techs/distributed-quantum-computing-across-an-optical-network-link/',
+      tags: ['inventions', 'quantum'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/5543dc90-1a5e-4f47-a0ba-f5d06e212e93',
       title: 'Biologically Plausible Model for Dimensionality Reduction',
       link: '/techs/biologically-plausible-model-for-nonlinear-dimensionality-reduction/',
@@ -43,7 +49,7 @@ const CardGrid = ({ tag }) => {
     },
     {
       gif: 'https://github.com/user-attachments/assets/aa8b18eb-ab10-47ca-a4e2-0c0c32b6b759',
-      title: 'Aqueous-based recycling of perovskite photovoltaics',
+      title: 'Recycling of perovskite photovoltaics',
       link: '/techs/aqueous-based-recycling-of-perovskite-photovoltaics/',
       tags: ['inventions', 'energy'],
     },
