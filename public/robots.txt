@@ -1,0 +1,4 @@
+# *
+User-agent: *
+Allow: /
+Sitemap: https://buildy.necrozmalabs.com/sitemap-0.xml

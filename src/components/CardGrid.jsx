@@ -24,6 +24,24 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/06777c57-fa12-4f7e-afe7-327bbdb79692',
+      title: 'CO2 reduction system via high-throughput screening',
+      link: '/techs/co2-reduction-system-via-high-throughput-screening/',
+      tags: ['inventions', 'sustainable'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/5dec0065-573a-42e4-ab0b-364d1e27b83f',
+      title: 'Altermagnetism, a newly proposed magnetic phase',
+      link: '/techs/altermagnetism-a-newly-proposed-magnetic-phase/',
+      tags: ['inventions', 'other'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/8fb5b5e8-29b8-4a4e-9e86-9d1987280129',
+      title: 'AFION self-driving lab',
+      link: '/techs/afion-self-driving-lab/',
+      tags: ['inventions', 'other'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/375a6e4f-20d3-4f33-884b-7ee45ddd97f2',
       title: 'Distributed quantum computing across an optical network link',
       link: '/techs/distributed-quantum-computing-across-an-optical-network-link/',
