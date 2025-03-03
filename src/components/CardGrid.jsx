@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/7d3d8892-d2af-4b79-8d48-49c78e7b618e',
+      title: 'quantum-mechanics-to-transmit-information-more-securely',
+      link: '/techs/quantum-mechanics-to-transmit-information-more-securely/',
+      tags: ['inventions', 'quantum'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/06777c57-fa12-4f7e-afe7-327bbdb79692',
       title: 'CO2 reduction system via high-throughput screening',
       link: '/techs/co2-reduction-system-via-high-throughput-screening/',
