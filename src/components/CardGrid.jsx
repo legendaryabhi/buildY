@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/726c3b02-93f8-44a6-8686-62013b84d0f2',
+      title: 'Robotic insects with much higher stamina',
+      link: '/techs/robotic-insects-with-much-higher-stamina/',
+      tags: ['inventions', 'robotics'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/7d3d8892-d2af-4b79-8d48-49c78e7b618e',
       title: 'quantum-mechanics-to-transmit-information-more-securely',
       link: '/techs/quantum-mechanics-to-transmit-information-more-securely/',
