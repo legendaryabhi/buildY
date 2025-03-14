@@ -72,6 +72,10 @@ export default defineConfig({
           link:'/updates/'
         },
         {
+          label: '[podcast] Podcasts for You',
+          link:'/podcasts/'
+        },
+        {
           label: '[hand] Story we stand for',
           link:'/story-we-stand-for/'
         },
