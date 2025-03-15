@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/c6783d3f-6c73-4139-9281-88671b603d06',
+      title: 'New way to transform matter',
+      link: '/techs/new-way-to-transform-matter/',
+      tags: ['inventions', 'other'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/726c3b02-93f8-44a6-8686-62013b84d0f2',
       title: 'Robotic insects with much higher stamina',
       link: '/techs/robotic-insects-with-much-higher-stamina/',
