@@ -1,6 +1,6 @@
 ---
 title: pure-RL training method (used by deepseek in r1)
-description: .
+description: RL for training LLMs has been most successful when combined with labeled data.
 ---
 ![Image](https://github.com/user-attachments/assets/35708136-d413-484c-9d81-57fa5c23036b)
 

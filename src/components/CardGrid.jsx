@@ -24,6 +24,18 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/a125bd1a-c359-4152-9db9-27410e4113c8',
+      title: 'Quantum Computing Breakthrough for Universal Simulation',
+      link: '/techs/quantum-computing-breakthrough-for-universal-simulation/',
+      tags: ['inventions', 'quantum'],
+    },
+    {
+      gif: 'https://github.com/user-attachments/assets/734704d9-43f2-4d44-93e6-a3f3f2032aad',
+      title: 'Fiber Optic Power for Quantum Computers',
+      link: '/techs/fiber-optic-power-for-quantum-computers/',
+      tags: ['inventions', 'quantum'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/c6783d3f-6c73-4139-9281-88671b603d06',
       title: 'New way to transform matter',
       link: '/techs/new-way-to-transform-matter/',
