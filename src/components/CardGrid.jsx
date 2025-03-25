@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/5a3a95de-1c28-46a2-bec0-61631d9b30f0',
+      title: 'Stable Entangled Photon Transmission for 30+ Hours',
+      link: '/techs/stable-entangled-photon-transmission/',
+      tags: ['inventions', 'quantum'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/a125bd1a-c359-4152-9db9-27410e4113c8',
       title: 'Quantum Computing Breakthrough for Universal Simulation',
       link: '/techs/quantum-computing-breakthrough-for-universal-simulation/',
