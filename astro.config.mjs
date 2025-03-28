@@ -60,6 +60,10 @@ export default defineConfig({
           }
         },
         {
+          label: '[discussion] Discussion',
+          link:'https://github.com/Necrozmalabs/buildY/discussions'
+        },
+        {
           label: '[book] Usage License',
           link:'/usagelicense/'
         },
