@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/ccfad11a-6ac5-46e2-82f0-f9b1c01860f5',
+      title: 'Soft mechanism driven Robots for Rescue OPS',
+      link: '/techs/soft-mechanism-driven-robots-for-rescue-ops/',
+      tags: ['ai', 'robotics'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/5a3a95de-1c28-46a2-bec0-61631d9b30f0',
       title: 'Stable Entangled Photon Transmission for 30+ Hours',
       link: '/techs/stable-entangled-photon-transmission/',
