@@ -4,7 +4,7 @@ import '../styles/CardGrid.css'; // Link to a CSS file for styling
 const Card = ({ gif, title, link }) => {
   return (
     <div className="card">
-      <a href={link} target="_blank" rel="noopener noreferrer" className="card-link">
+      <a href={link} target="" rel="noopener noreferrer" className="card-link">
         <div className="card-content">
           <div className="image-container" style={{ backgroundColor: 'white' }}>
             <img src={gif} alt="Card Thumbnail" className="card-image" />
@@ -23,6 +23,12 @@ const CardGrid = ({ tag }) => {
 
   
   const cards = [
+    {
+      gif: 'https://github.com/user-attachments/assets/81268503-1158-466a-a475-2dcd4a7c95e9',
+      title: 'High Dimensional Quantum Key Distribution',
+      link: '/techs/high-dimensional-quantum-key-distribution/',
+      tags: ['inventions', 'quantum'],
+    },
     {
       gif: 'https://github.com/user-attachments/assets/ccfad11a-6ac5-46e2-82f0-f9b1c01860f5',
       title: 'Soft mechanism driven Robots for Rescue OPS',
