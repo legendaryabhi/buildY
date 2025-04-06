@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/f478a6c8-d0ca-428f-a1c8-b6fed0e8e894',
+      title: 'Controlling the Synthesis of Nanoparticles',
+      link: '/techs/controlling-the-synthesis-of-nanoparticles/',
+      tags: ['inventions', 'nano'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/81268503-1158-466a-a475-2dcd4a7c95e9',
       title: 'High Dimensional Quantum Key Distribution',
       link: '/techs/high-dimensional-quantum-key-distribution/',
