@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/3788b591-f8d9-4f5b-a3b3-ca106586291f',
+      title: 'Building Nanoscale Structures using DNA Origami',
+      link: '/techs/building-nanoscale-structures-using-dna-origami/',
+      tags: ['inventions', 'nano'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/f478a6c8-d0ca-428f-a1c8-b6fed0e8e894',
       title: 'Controlling the Synthesis of Nanoparticles',
       link: '/techs/controlling-the-synthesis-of-nanoparticles/',
