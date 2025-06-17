@@ -24,6 +24,12 @@ const CardGrid = ({ tag }) => {
   
   const cards = [
     {
+      gif: 'https://github.com/user-attachments/assets/0eb6fb50-559b-418e-b192-0461cd28489a',
+      title: 'Two-step machine learning enables optimized nanoparticle synthesis',
+      link: 'techs/two-step-machine-learning-enables-optimized-nanoparticle-synthesis',
+      tags: ['inventions', 'nano'],
+    },
+    {
       gif: 'https://github.com/user-attachments/assets/6a06a982-2129-4fe2-ac59-94c2ebff86d2',
       title: 'Using Light & Color to Create an Unhackable Internet',
       link: '/techs/using-light-and-color-to-create-an-unhackable-internet/',
